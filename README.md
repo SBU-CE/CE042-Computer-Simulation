@@ -24,13 +24,12 @@ Dr. Farshad Safaei
 
 ## Current TAs:
 * [Mohammad Khoddam](https://github.com/mkh2097)
+* [Kamyab Abedi](https://github.com/b4ym4k)
 * [Zahra Hashemi](https://github.com/zahra-zibzee)
 * [Mohammad Reza Sadeghi](https://github.com/MRSadeghi78)
 * [Ehsan Sajadi](https://github.com/ehsansajadi)
-* [Kamyab Abedi](https://github.com/b4ym4k)
-
-
+* [Mohammadreza Jamali](https://github.com/mreza79)
 
 ## Past TAs:
-[Ali Shahamatnia](https://github.com/alishahamatnia), [Dena Salami](https://github.com/dena99), [Mohammad Hashemi](https://github.com/mohammadhashemii)
+[Ali Shahamatnia](https://github.com/alishahamatnia), [Dena Salami](https://github.com/dena99), [Mohammad Hashemi](https://github.com/mohammadhashemii), * [Kian Jalilian](https://github.com/kianjalilian)
 
