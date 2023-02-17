@@ -1,2 +1,2 @@
 - Kamyab Abedi [Learning](https://github.com/b4ym4k/Python)
-- MohamadReza Asgari Shokooh [Learning] (https://github.com/RohamAsgari/HW1-CS.git)
+- MohamadReza Asgari Shokooh [Learning](https://github.com/RohamAsgari/HW1-CS.git)
