@@ -7,7 +7,8 @@
 
 ## Introduction
 
-Welcome to the computer simulation course repository on GitHub! 
+Welcome to the computer simulation course repository on GitHub!
+
 This repository serves as a central hub for all the course materials, including lecture notes, assignments, code samples, and other resources that will help you learn and practice the concepts of computer simulation.
 
 The aim of this course is to introduce you to the fundamentals of computer simulation and provide you with practical experience in building and running simulations. The materials in this repository are designed to help you achieve these goals, with a focus on hands-on learning and real-world applications.
@@ -31,5 +32,5 @@ Dr. Farshad Safaei
 
 
 ## Past TAs:
-[Ali Shahamatnia](https://github.com/alishahamatnia), [Dena Salami](https://github.com/dena99)
+[Ali Shahamatnia](https://github.com/alishahamatnia), [Dena Salami](https://github.com/dena99), [Mohammad Hashemi](https://github.com/mohammadhashemii)
 
