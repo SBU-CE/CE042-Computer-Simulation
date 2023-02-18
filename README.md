@@ -30,3 +30,5 @@ We hope that this repository will be a valuable resource for you throughout the 
 ## Past TAs:
 [Ali Shahamatnia](https://github.com/alishahamatnia), [Dena Salami](https://github.com/dena99), [Mohammad Hashemi](https://github.com/mohammadhashemii), [Kian Jalilian](https://github.com/kianjalilian)
 
+- Mahnaz Taheri [Learning ]( https://github.com/mahnz-taheri/Computer-Simulation)
+
