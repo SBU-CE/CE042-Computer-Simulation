@@ -1,2 +1,6 @@
 - Kamyab Abedi [Learning](https://github.com/b4ym4k/Python)
+- Taha Mousavi [Learning](https://github.com/TahaMsv/Kaggle-Python-Course)
+- Amin Savehdoroodi [Learning](https://github.com/Aminsaveh/Kaggle-Python-Course)
+- Mohammad Saeed Zare [Learning](https://github.com/MSaeed1381/Kaggle-Python-Course)
+- Zahra Sadat Esmati [Learning](https://github.com/ZedEsm/Kaggle-Python-Course.git)
 - MohamadReza Asgari Shokooh [Learning](https://github.com/RohamAsgari/HW1-CS.git)
