@@ -4,3 +4,4 @@
 - Mohammad Saeed Zare [Learning](https://github.com/MSaeed1381/Kaggle-Python-Course)
 - Zahra Sadat Esmati [Learning](https://github.com/ZedEsm/Kaggle-Python-Course.git)
 - MohamadReza Asgari Shokooh [Learning](https://github.com/RohamAsgari/HW1-CS.git)
+- Amirreza Eftekhari [Learning] (https://github.com/AmirEfi/PythonCourseKaggle)
