@@ -11,4 +11,4 @@
 - KosarDastbaz [Learning](https://github.com/KosarDst/Python-course)
 - Sina Elmiyeh [Learning](https://github.com/GoldenBall13/ComputerSim-e1)
 - Amin Ehsanimehr [Learning](https://github.com/Aminho09/Kaggle-Python-Course)
-- Kamran Miralami [Learning](https://github.com/ImTheAvatar/CE042-Computer-Simulation.git)
+- Kamran Miralami [Learning](https://github.com/ImTheAvatar/Tamrin1.git)
