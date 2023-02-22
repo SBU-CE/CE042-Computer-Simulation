@@ -1,5 +1,5 @@
 # Computer Simulation (CE042)
-- Kamran Miralami [Learning](https://github.com/ImTheAvatar/Tamrin1.git)
+
 
 <p align="center">
   <img src="https://github.com/SBU-CE/CE042-Computer-Simulation/blob/main/images/banner.png">	
