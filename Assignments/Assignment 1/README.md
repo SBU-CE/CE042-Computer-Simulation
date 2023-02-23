@@ -19,3 +19,4 @@
 - Kiana Bagheri [Learning](https://github.com/KianaBagheri/python-course)
 - HamidReza Heidari [Learning](https://github.com/hamid-r-h/python_course.git)
 - Mohammad Hossein Khorrami [Learning](https://github.com/mhkh333/python_kaggle)
+- Reza Ghavipanjeh [Learning](https://github.com/RezaGh79/CE042-Computer-Simulation/)
