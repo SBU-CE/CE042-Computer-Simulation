@@ -16,4 +16,5 @@
 - Mohammad Reza Eskini (98243006) [Learning](https://github.com/mreskini/python-course)
 - Pourya Zamanvaziri [Learning](https://github.com/Pouryazv/Kaggle-Python-Course)
 - Kiana Bagheri [Learning](https://github.com/KianaBagheri/python-course)
+- HamidReza Heidari [Learning](https://github.com/hamid-r-h/python_course.git)
 
