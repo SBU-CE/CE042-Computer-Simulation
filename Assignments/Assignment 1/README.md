@@ -12,3 +12,8 @@
 - Sina Elmiyeh [Learning](https://github.com/GoldenBall13/ComputerSim-e1)
 - Amin Ehsanimehr [Learning](https://github.com/Aminho09/Kaggle-Python-Course)
 - Farid Nemati [Learning](https://github.com/farid-creat/python_certificate)
+- Abolfazl Akhavi [Learning](https://github.com/Abolfazlak/simulatio-python)
+- Mohammad Reza Eskini (98243006) [Learning](https://github.com/mreskini/python-course)
+- Pourya Zamanvaziri [Learning](https://github.com/Pouryazv/Kaggle-Python-Course)
+- Kiana Bagheri [Learning](https://github.com/KianaBagheri/python-course)
+
